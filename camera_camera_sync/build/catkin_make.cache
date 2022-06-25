@@ -1,0 +1,2 @@
+camera_syc
+-DCATKIN_DEVEL_PREFIX=/home/melody/home_work/camera_camera_sync/devel -DCMAKE_INSTALL_PREFIX=/home/melody/home_work/camera_camera_sync/install -G Unix Makefiles

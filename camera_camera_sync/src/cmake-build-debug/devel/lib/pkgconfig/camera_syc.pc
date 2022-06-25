@@ -1,0 +1,8 @@
+prefix=/home/melody/home_work/camera_camera_sync/src/cmake-build-debug/devel
+
+Name: camera_syc
+Description: Description of camera_syc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
